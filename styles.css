@@ -57,7 +57,7 @@ a{
   text-decoration: none;
 }
 a:hover{
-  color: #eaf6f6;
+  color: red;
 }
 .bottomcloud {
   position: absolute;
